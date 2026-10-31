@@ -91,7 +91,7 @@ Work through [checklist.md](checklist.md) once per pilot. It takes about an hour
 
 ## If the team moves off a cloud-session product
 
-A pilot can end with a decision to stop sending sessions to a vendor's servers. The endpoint work changes shape at that point. Kortix is [the open-source AI Operating System](https://claudecoworkalternative.com/install), and on a self-hosted install the machine stops being a bridge and becomes the host. Open source. Read it, fork it, audit it. Run it on Kortix Cloud, in your VPC, or on your own on-prem network. Self-host is free. The power, egress and permission questions do not disappear, and the machine that answers them is one you control.
+A pilot can end with a decision to stop sending sessions to a vendor's servers. The endpoint work changes shape at that point. Kortix is [the open-source CompanyOS](https://claudecoworkalternative.com/install), and on a self-hosted install the machine stops being a bridge and becomes the host. Open source. Read it, fork it, audit it. Run it on Kortix Cloud, in your VPC, or on your own on-prem network. Self-host is free. The power, egress and permission questions do not disappear, and the machine that answers them is one you control.
 
 ## Sources
 
